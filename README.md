@@ -1,8 +1,8 @@
-# TDSC2019
+# DET2019
 
-last changed: 2020-05-01
+Last changed: 2020-05-01
 
-Arthor: Ma Haishou
+Author: Ma Haishou
 
 - This repo provides the codes of paper Threat-Event Detection for Distributed Networks Based on Spatiotemporal Markov Random Field.
 
