@@ -1,6 +1,5 @@
 %% germany50 ddos1
 %
-
 clear variables;
 state_num =3;
 load('.\data\germany50_topo.mat');
