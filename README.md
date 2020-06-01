@@ -1,6 +1,6 @@
 # DET2019
 
-Last changed: 2020-06-01
+Last changed: 2020-06-02
 
 Author: Ma Haishou
 
